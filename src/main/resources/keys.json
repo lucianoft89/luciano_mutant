@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "springmeli",
+  "private_key_id": "7701d6b74118258c861bb697536d29f5ae10f405",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCv1Bvn5bEvYL7C\nsCOnPMOt54ikJ3TLj+oaoiV8iG+Vr3jFlEBCFabu+P/DnAwPTEz5NkEcOQcue15L\nsZ4S7zZQdIB7rLHD1Ofd1aBilm3kSeyk8+Q73oTbvAj1jy+Piyr1bk5VtFhRQ9qc\nTFl+gK0Mm7baVpT5IXGlfqmbmypdnXkB/94xP8ofxKArql2cn7M7Sf8FgfHPIoxk\n6FZGfK3snY3ZotXKnX4oNO295qwD6CPnNTqPaL4OTqR73HmUw6DVt3hlfpmcVHsX\nqH9HM69bnNKwLGiY6dGee02RlSHraNDDNAsAx7Ks/lY0OWvo0jvu1a/mKPLBTvLn\nDO/N+dPrAgMBAAECggEAEnWMlHT10XPbsxQg5MQpWvmNdoZklEvAl8PhdvMv8SFh\n5tmglrov3gjVeSjJz1VYWMA3El/I/uVEH2Lp+zI9RocPR2yi9lyaFx0ACzmgbIYi\nSlMHPrh8GZbibef2u0rbW2GVkcPZkyEyMz8vahYs6hTy8SCD3//V2Y+0U2TKjCyj\nsYV6VNL3I6R7dROAC2/9KPjbhIy89Gz3fwdU+J5/8YzFn5//f0BQmB8hfv4WFcGJ\ndDARk1SJLZelZg/GT78aI0fHuA9WJ8SqUyyGqVBExKCPSZ6F48ZyR4bXfHXud+1y\nv3UNitqW2CYuBsnxc6jlggrnB4FYTaB1tkwMrODBUQKBgQDpUXWctkzOqROzsy6r\nG4PLFisAaXfZVc/0rlKBBboWn30Ku7LCBYB6vIRTHJoP5U7UZnXmQT9HtxBkU/xw\n7PJYvqfHzl45DSZXgcSZYBqRdtusUW+JNd3SKf2bqVxs53g0hKdfTajFRfdlTXIN\nGJU+cPQ38TWqHJjdQibaTLkS+QKBgQDA6+q3KzPS7AuVD9UdZDKRmhBHhWU13JuI\n3hslwmkl50NxjXmkJo3rSBSCCzHnhStRP+ARfZjt7u6qAnNJhqmiltwVQUY4uyED\ngZfHE3oTlB0XwNYRZSSNg6eda1mZ5XhUn5gUvWwhudZz/0ADT2aIRyh1M2ILkxVv\nTGdE+/8zAwKBgQDnm/6Vp34NdFfjfg7ounKVCpd7XDcl3wKFkPrDq4yz4nS9T+A+\nrDmDHVp6Kp1hBC/Bt0h4XvLTXQ1/msOw0fYtVG23ccuk9MHIAkDIRFd7aTLeFyUS\nXw+pDhf8Cx592TVBZSHFAJF162OQA1YhW/LjPjugwOiVyreQhJePArSB+QKBgFFd\nLkjCN8ElPF1JqCAVOh6eU29WmzD0McSvp9NtAtuxhYhGmp7Yg9JPPBb8kbeLOpGx\n1taJmg3/Tzj0f5rq6HBiH7/3H56djXblGRYk6L+JIBv8gEwl1By7Ad4qgEeft/g4\ntvNIUGqI7iFN7bl3q06edDm5yggHqGqgVo2Jmj/xAoGAHVK+v+7F55EZKG9BqoaQ\nxarOSKP4e8fKs1+gb7fwoNtV0ks5WGKmpwIGbVafVLx2UROY5cRjanSt1LlGqbiK\ncdzERDvJb8ya+Zg1NS+jbmyqUqU4EI0dnB5o3rQTKO++HNe6n5rdPSB5VrsZaKSx\n1EFHIKdJ2RMa20ohQlIGkxE=\n-----END PRIVATE KEY-----\n",
+  "client_email": "springmeli@appspot.gserviceaccount.com",
+  "client_id": "107344971906093328591",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/springmeli%40appspot.gserviceaccount.com"
+}
